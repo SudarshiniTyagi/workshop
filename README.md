@@ -1,0 +1,2 @@
+#workshop
+Blog in workshop
